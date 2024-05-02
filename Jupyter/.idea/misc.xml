@@ -8,4 +8,7 @@
     <option name="shellPath" value="$USER_HOME$/Downloads/usr/bin/mongodb-compass" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Tkinter)" project-jdk-type="Python SDK" />
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
 </project>
